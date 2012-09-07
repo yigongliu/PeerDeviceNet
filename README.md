@@ -1,4 +1,4 @@
 PeerDeviceNet
 =============
 
-PeerDeviceNet runtime apks, samples source projects and docs
+PeerDeviceNet runtime apks and docs
