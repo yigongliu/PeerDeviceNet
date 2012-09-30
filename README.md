@@ -11,6 +11,8 @@ Once devices have PeerDeviceNet installed, you have a free complete runtime to d
 
 As mobile app, it connects your phones and tablets securely through WI-FI network to enable sharing across devices. It allows a group of devices share web pages, contact information, pictures, videos and other documentations. Connecting devices could be as simple as touching "Search and connect" button. Sending and sharing is initiated by touching the standard android "share" button which most major android apps support.
 
+PeerDeviceNet is available free at popular app stores such as Google Play and Amazon AppStore.
+
 Features:
 
 1. Safe direct connections.
