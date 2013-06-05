@@ -1,7 +1,7 @@
 PeerDeviceNet
 =============
 
-Here are PeerDeviceNet runtime apks. Please check out core runtime source code at https://github.com/yigongliu/PeerDeviceNet_Src.
+Here are PeerDeviceNet runtime apks. For source code, please check out https://github.com/yigongliu/PeerDeviceNet_Src.
 
 PeerDeviceNet is both a mobile app to connect your android devices and an app framework to enable connected mobile apps.
 
