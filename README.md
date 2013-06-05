@@ -23,9 +23,9 @@ Features:
 
 	Two simple methods to connect peer devices:
 	
-	* By using NFC/Android_Beam or camera scanning QR code. One device will be chosen as leader which will choose network (wifi, wifi direct or mobile hotspot), generate QR code image and start NFC transmit; others can join the group and connect to peers by either scanning leader's QR code using rear or front camera or tapping with leader device.
+	By using NFC/Android_Beam or camera scanning QR code. One device will be chosen as leader which will choose network (wifi, wifi direct or mobile hotspot), generate QR code image and start NFC transmit; others can join the group and connect to peers by either scanning leader's QR code using rear or front camera or tapping with leader device.
 
-	* By search and find. In WI-FI networks (with multicast), simply start PeerDeviceNet or tap "Search and connect" button at multiple devices simultaneously; they can find and connect to each other automatically.
+	By search and find. In WI-FI networks (with multicast), simply start PeerDeviceNet or tap "Search and connect" button at multiple devices simultaneously; they can find and connect to each other automatically.
 
 3. Easy to use
 
